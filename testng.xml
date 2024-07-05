@@ -11,7 +11,6 @@
 			<class name="wistamp.tests.RenameTest" />
 			<class name="wistamp.tests.TestEdit" />
 			<class name="wistamp.tests.AppDetailsTest" />
-			alex
 		</classes>
 	</test> <!-- Testng -->
 </suite> <!-- Suite -->
