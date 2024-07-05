@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<listeners>
+		<listener class-name="utilities.ListenerClass"></listener>
+	</listeners>
+	<test name="Testng">
+		<classes>
+			<class name="wistamp.tests.LoginTest" />
+			<class name="wistamp.tests.ForgotPasswordTest" />
+			<class name="wistamp.tests.RenameTest" />
+			<class name="wistamp.tests.TestEdit" />
+			<class name="wistamp.tests.AppDetailsTest" />
+		</classes>
+	</test> <!-- Testng -->
+</suite> <!-- Suite -->

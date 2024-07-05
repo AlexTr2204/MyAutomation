@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 131.275 s <<< FAILURE! - in TestSuite
+wistamp.tests.RenameTest.RenameSignature  Time elapsed: 17.729 s  <<< FAILURE!
+java.lang.AssertionError: expected [New Signature1] but found [New Signature]
+	at wistamp.tests.RenameTest.RenameSignature(RenameTest.java:34)
+
+wistamp.tests.TestEdit.addDetails  Time elapsed: 18.402 s  <<< FAILURE!
+java.lang.AssertionError: expected [Alex] but found [AlexAlexAlexAlex]
+	at wistamp.tests.TestEdit.addDetails(TestEdit.java:27)
+

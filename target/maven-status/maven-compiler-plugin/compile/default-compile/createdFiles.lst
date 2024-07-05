@@ -1,0 +1,16 @@
+wistamp\tests\TestEdit.class
+wistamp\tests\AppDetailsTest.class
+wistamp\tests\ForgotPasswordTest.class
+wistemp\pageObject\MySignatruesPage.class
+wistemp\pageObject\AppsPage.class
+utilities\AllureAttachment.class
+wistamp\tests\BaseTest.class
+wistemp\pageObject\VideoPage.class
+wistemp\pageObject\BasePage.class
+wistamp\tests\RenameTest.class
+wistemp\pageObject\LoginPage.class
+wistemp\pageObject\ForgotPasswordPage.class
+utilities\ListenerClass.class
+wistamp\tests\LoginTest.class
+wistemp\pageObject\DetailsPage.class
+wistemp\pageObject\SignaturePreviewPage.class
